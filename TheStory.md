@@ -1,5 +1,4 @@
 # Story
-the story
 
 The Story
 

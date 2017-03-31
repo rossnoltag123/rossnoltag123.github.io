@@ -1,7 +1,4 @@
 
----
-default: layout
----
 
 ## The Story - Chapter 1
 

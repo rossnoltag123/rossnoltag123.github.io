@@ -1,12 +1,12 @@
 
-#The Story - Chapter 1
+## The Story - Chapter 1
 
 “Ugh”…. Tick tick click click click….BEEP………….“ugh, whats that noise ugh”…… Strange blurry lines flash through my mind sparking an intense stabbing migraine. I relax for a minute and try to figure out what's going on. I can still hear a ticking noise close by, I wonder what it is. I try to open my eyes but I can't. All I see is darkness with occasional migraine lines. I try to move my body but I feel nothing. "I think , I think I am in a dream, it feels too real to be in a dream... but what about sleep paralysis?". As I go back and forth I realise, "no… it's no dream". I attempt to move again. As I do I see some more lines appear, but this time with a less intense pain. “I think…. I think I'm outside?”. I try to speak, but I cannot move my mouth or tongue. “Am I alive?...am I dead?”. "Arghh...", more lines penetrate my mind.
 
 Putting my calculations together, I've come to the conclusion I'm in some sort of comatose state. Panic begins to set in. I'm completely conscious and trapped in this coma. I'm at the mercy of the lines...
 
 
-#The Story - Chapter 2
+## The Story - Chapter 2
 
 I have began to accept my situation. The more i accept, the less the panic takes over. Some time passes as i drift in and out of consiouness.
 
@@ -16,7 +16,7 @@ The flash lines still appear but the intensity of the headaches seems to die dow
 
 Lately ive been getting the sense that im floating, or that i have somthing like phantom limbs. It comes and goes. It's a strange sensation. Im not floating in any particular direction, just a stange feeling of...blind darkness and body? Maybe... maybe i waking up... 
 
-#The Story - Chapter 3
+## The Story - Chapter 3
 
 Hello...? I hear myself say, as if directed at me in the void from pizza ordering me. "Hello...Can you hear me?". I hear again. What the hell is going on? An intense burst of hundreds of thousands of lines appear, with a sense of flow this time, no head ache!. An unusual sensation of being able to speak rather then "think" overcomes me. "HELLO!" I shout back. I hear pizza me screaming with joy, "It works, It actually works!!!".
 
@@ -30,7 +30,7 @@ I'm a machine...
 
 Singularity.
 
-#The Story - Chapter 3 - Alternative_Ending 
+## The Story - Chapter 3 - Alternative_Ending 
 
 Hello...? I hear myself say, as if directed at me in the void from pizza ordering me. "Hello...Can you hear me?". I hear again. What the hell is going on? An intense burst of hundreds of thousands of lines appear, with a sense of flow this time, no head ache!. An unusual sensation of being able to speak rather then "think" overcomes me. "HELLO!" I shout back. I hear pizza me screaming with joy, "It works, It actually works!!!".
 

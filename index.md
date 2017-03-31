@@ -1,6 +1,3 @@
----
-layout: default
----
 
 #The Story - Chapter 1
 
